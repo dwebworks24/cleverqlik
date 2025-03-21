@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.commingsoon{
+    background-image: url(./images/commingsoon.jpg);
+    height: 100vh;
+    width: 100;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

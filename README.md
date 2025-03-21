@@ -1,1 +1,2 @@
-# cleverqlik
+# codekraft
+# django
