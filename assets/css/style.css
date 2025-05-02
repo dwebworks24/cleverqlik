@@ -2345,7 +2345,7 @@
  }
 
  .breadcrumb-area {
-     padding: 150px 0;
+     padding: 60px 0;
      word-break: break-word;
      padding-top: 180px;
      background-color: #d1eeec;
@@ -12006,7 +12006,9 @@ nav.navbar.validnavs {
 
 .breadcrumb-area {
   background-image: url(../img/bred-crumb.png);
-  background-size: cover;
+  background-size: cover !important;
+  background-position: center center !important;
+  background-repeat: no-repeat;
 }
 .breadcrumb-area h1{
   color: white;
