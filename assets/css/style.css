@@ -12004,3 +12004,21 @@ nav.navbar.validnavs {
     padding: 0px  !important;
 }
 
+.breadcrumb-area {
+  background-image: url(../img/bred-crumb.png);
+  background-size: cover;
+}
+.breadcrumb-area h1{
+  color: white;
+}
+.breadcrumb-area li a{
+  color: white !important;
+}
+
+.breadcrumb .active{
+  color: white !important;
+}
+
+.breadcrumb-area .breadcrumb li::after {
+  color: white;
+}
